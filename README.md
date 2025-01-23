@@ -1,9 +1,6 @@
  # About me
 
 
-**w143hxn/w143hxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### Hi there, I’m Huy Nguyen! 👋
 
